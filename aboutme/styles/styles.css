@@ -2,24 +2,28 @@ body {
     text-align: center;
   }
 nav {
-    background-color: steelblue;
-    padding: 10px;
+    font-size: large;
+    background-color: rgb(148, 8, 8); /* cor da barra de cima */   
+    padding: 30px;    /* altura e grossura da barra de cima */
 }
 a {
-   color: black;
-   margin:40px; 
+   color: whitesmoke; /* cor do texto dos links acima */
+   margin:60px;  /* aqui vai mudar a distancia entre os links acima da pagina*/
 }
 h1 {
-    color: navy;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: black;    /* cor do titulo com meu nome */
 }
 img {
-    width: 800px;
-    border: 4px solid slateblue;
+    width: 350px;  /* size of the pic */
+    border: 10px solid black;
 }
 p {
-    padding: 15px;
+    font-size: larger;
+    padding: 4px; /* distancia entre linhas */
 }
 footer {
-    background-color: steelblue;
+    background-color:rgb(148, 8, 8);
     color: whitesmoke
 }
