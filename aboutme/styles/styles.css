@@ -6,6 +6,10 @@ nav {
     background-color: rgb(148, 8, 8); /* cor da barra de cima */   
     padding: 30px;    /* altura e grossura da barra de cima */
 }
+#active{
+    background-color: white;
+    color: steelblue;
+}
 a {
    color: whitesmoke; /* cor do texto dos links acima */
    margin:60px;  /* aqui vai mudar a distancia entre os links acima da pagina*/
@@ -18,6 +22,11 @@ h1 {
 img {
     width: 350px;  /* size of the pic */
     border: 10px solid black;
+}
+.main-para {
+    font-size: 1.5em;
+    line-height: 1.5em;
+    color: crimson;
 }
 p {
     font-size: larger;
