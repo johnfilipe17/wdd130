@@ -1,0 +1,54 @@
+
+h1 {
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+    background-color: navy;
+    color:whitesmoke;
+    padding: 10px;
+}
+
+a:hover {
+    background-color: white;
+    color: red;
+}
+
+
+footer p {
+    font-size: 20px;
+    margin: 20px auto;
+}
+
+img {
+    width: 80%;
+    display: block;
+    margin: 0 auto;
+}
+
+a {
+    font-size: 1.5em;
+}
+
+h1 { 
+    color: whitesmoke;
+    background-color: navy;
+
+}
+
+* {
+    border: 2px solid blue;
+}
+
+p {
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    width: 100%;
+}
+
+main p {
+    width: 80%;
+    margin: 50px auto;
+    text-align: center;
+}
