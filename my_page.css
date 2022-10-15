@@ -1,0 +1,49 @@
+
+
+.mainpic {
+    width: 100%
+    
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(106, 103, 114);
+    
+}
+
+.desk {
+    border: 8px solid rgb(62, 66, 66);
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 45px;
+    margin-right: 60px;
+    text-align: center;
+    width: 20%;
+    height: 20%;
+    border-radius: 50%;
+}
+
+.person{
+    border: 8px solid rgb(62, 66, 66);
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 60px;
+    margin-right: 15px;
+    text-align: center;
+    width: 20%;
+    height: 20%;
+    border-radius: 50%;
+
+}
+
+.brand{
+    border: 8px solid rgb(62, 66, 66);
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 60px;
+    margin-right: 60px;
+    text-align: center;
+    width: 20%;
+    height: 20%;
+    border-radius: 50%;
+}
