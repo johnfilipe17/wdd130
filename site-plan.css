@@ -8,10 +8,10 @@ Fonts are separated by a | */
   --primary-color: white   ;
   --secondary-color: #670685 ;
   --accent1-color: #000000;
-  --accent2-color: white;
+  --accent2-color: beige;
 
   /* change the values below to your chosen font(s) */
-  --heading-font: "FASTHAND ";
+  --heading-font: "Serif ";
   --paragraph-font: Roboto, Helvetica, sans-serif;
 
   /* these colors below should be chosen from among your palette colors above */
