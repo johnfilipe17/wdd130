@@ -7,9 +7,11 @@ header{
 }
 
 nav{
-    
     font-size: larger;
-    background-color: beige;
+    background-color:beige;
+    text-decoration:none;
+    display: flex;
+    justify-content: space-around;
 
 }
 
