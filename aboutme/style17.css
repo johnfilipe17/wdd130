@@ -1,4 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Moon+Dance&family=Sofia+Sans:wght@100&display=swap');
+
 h1{
+    font-family: 'Moon Dance', cursive;
     text-align: center;
     color:whitesmoke;
     font-weight: bold;  
@@ -21,7 +24,7 @@ h2{
     text-align: center;
     font-size: 60px;
     color: whitesmoke;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Moon Dance', cursive;
 }
 
 p{
@@ -32,4 +35,8 @@ p{
     margin-left: 250px;
     margin-right: 250px;
 
+}
+header{
+    font-size: 29px;
+    background-color: aliceblue;
 }
